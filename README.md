@@ -13,3 +13,7 @@
 ## Frameworks
 
 - [microchipgnu/micro-agi](https://github.com/microchipgnu/micro-agi)
+
+## Videos
+- [Large Language Models and The End of Programming - CS50 Tech Talk with Dr. Matt Welsh](https://www.youtube.com/watch?v=JhCl-GeT4jw)
+- [Building Reactive AI Apps: Matt Welsh](https://www.youtube.com/watch?v=qpPgCA664xw)
