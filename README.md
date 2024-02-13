@@ -12,7 +12,10 @@
 
 ## Frameworks
 
-- [microchipgnu/micro-agi](https://github.com/microchipgnu/micro-agi)
+- [microchipgnu/micro-agi](https://github.com/microchipgnu/micro-agi): React-compatible cross-platform framework for orchestrating autonomous AI agents and teams
+
+## Wallet
+- [microchipgnu/near-autonomous-wallet](https://github.com/microchipgnu/near-autonomous-wallet): NEAR Protocol wallet powered by autonomous agents
 
 ## Videos
 - [Large Language Models and The End of Programming - CS50 Tech Talk with Dr. Matt Welsh](https://www.youtube.com/watch?v=JhCl-GeT4jw)
